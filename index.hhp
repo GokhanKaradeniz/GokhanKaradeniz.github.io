@@ -1,0 +1,48 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=FireImpact
+
+[WINDOWS]
+main="FireImpact","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+annotated.html
+class_fire_impact_1_1_effect_area-members.html
+class_fire_impact_1_1_effect_area.html
+class_fire_impact_1_1_program-members.html
+class_fire_impact_1_1_program.html
+class_fire_impact_1_1_soldier-members.html
+class_fire_impact_1_1_soldier.html
+class_fire_impact_1_1_weapon-members.html
+class_fire_impact_1_1_weapon.html
+classes.html
+dir_0bac9e72dfaeb9a569c2f01f7520b0fa.html
+dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html
+dir_da92606663f4ecb03aa66c183f15dac3.html
+dir_e02ac0f47c91351214ee1bcd42a23a04.html
+functions.html
+functions_evnt.html
+functions_func.html
+functions_prop.html
+functions_vars.html
+index.html
+namespace_fire_impact.html
+namespaces.html
+bc_s.png
+bdwn.png
+closed.png
+nav_f.png
+nav_h.png
+open.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
