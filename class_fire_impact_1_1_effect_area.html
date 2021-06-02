@@ -19,7 +19,6 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">FireImpact
-   &#160;<span id="projectnumber">1.0</span>
    </div>
   </td>
  </tr>
@@ -94,6 +93,8 @@ Properties</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Class <code><a class="el" href="class_fire_impact_1_1_effect_area.html" title="Class EffectArea models a cone shaped volume in which soldiers will have temporary blindness and deaf...">EffectArea</a></code> models a cone shaped volume in which soldiers will have temporary blindness and deafness effects when a large weapon fired. </p>
 <p>Uses Degrees for Angles</p>
+
+<p class="definition">Definition at line <a class="el" href="_effect_area_8cs_source.html#l00013">13</a> of file <a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a9dd612295b37e540e925863c617ef96e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a9dd612295b37e540e925863c617ef96e">&#9670;&nbsp;</a></span>EffectArea()</h2>
@@ -172,6 +173,8 @@ Properties</h2></td></tr>
   </dd>
 </dl>
 
+<p class="definition">Definition at line <a class="el" href="_effect_area_8cs_source.html#l00070">70</a> of file <a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
@@ -193,6 +196,8 @@ Properties</h2></td></tr>
 <p>The [X,Y,Z] vector the axix of Effect Area Cone is pointing. </p>
 <dl class="section return"><dt>Returns</dt><dd>Returns current The [X,Y,Z] vector the axix of Effect Area Cone is pointing.</dd></dl>
 
+<p class="definition">Definition at line <a class="el" href="_effect_area_8cs_source.html#l00101">101</a> of file <a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a>.</p>
+
 </div>
 </div>
 <a id="add7195e943209d686957bbddb7d42c98"></a>
@@ -212,6 +217,8 @@ Properties</h2></td></tr>
 
 <p>Multiplies the LengthFactor of this <code><a class="el" href="class_fire_impact_1_1_effect_area.html" title="Class EffectArea models a cone shaped volume in which soldiers will have temporary blindness and deaf...">EffectArea</a></code> and the muzzleCaliber of the <code><a class="el" href="class_fire_impact_1_1_weapon.html" title="Class Weapon models a simple weapon with a muzzle as a placeholder for Game Environment&#39;s weapon syst...">Weapon</a></code> it's attached to. </p>
 <dl class="section return"><dt>Returns</dt><dd>Length of <code><a class="el" href="class_fire_impact_1_1_effect_area.html" title="Class EffectArea models a cone shaped volume in which soldiers will have temporary blindness and deaf...">EffectArea</a> in meters. (AKA "r, radius" at documentation image.)</code></dd></dl>
+
+<p class="definition">Definition at line <a class="el" href="_effect_area_8cs_source.html#l00091">91</a> of file <a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a>.</p>
 
 </div>
 </div>
@@ -240,6 +247,8 @@ Properties</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Returns True if the <em>point</em>  is inside of owner Effect Area. Otherwise False.</dd></dl>
 
+<p class="definition">Definition at line <a class="el" href="_effect_area_8cs_source.html#l00111">111</a> of file <a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Property Documentation</h2>
@@ -265,6 +274,8 @@ Properties</h2></td></tr>
 
 <p>This parameter is used to calculate MIN. blindness and deafness durations of this <code><a class="el" href="class_fire_impact_1_1_effect_area.html" title="Class EffectArea models a cone shaped volume in which soldiers will have temporary blindness and deaf...">EffectArea</a></code>. Durations will increase linearly as the distance from muzzle decreases and will reach to MAX. at the cone tip. </p>
 
+<p class="definition">Definition at line <a class="el" href="_effect_area_8cs_source.html#l00035">35</a> of file <a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a>.</p>
+
 </div>
 </div>
 <a id="a111249bc9c9faec33cca0c25865ce305"></a>
@@ -288,6 +299,8 @@ Properties</h2></td></tr>
 </div><div class="memdoc">
 
 <p>This parameter is used to calculate MAX. blindness and deafness durations of this <code><a class="el" href="class_fire_impact_1_1_effect_area.html" title="Class EffectArea models a cone shaped volume in which soldiers will have temporary blindness and deaf...">EffectArea</a></code>. Durations will decrease linearly as the distance from muzzle increases and will reach to MIN. at the cone base. </p>
+
+<p class="definition">Definition at line <a class="el" href="_effect_area_8cs_source.html#l00030">30</a> of file <a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a>.</p>
 
 </div>
 </div>
@@ -313,6 +326,8 @@ Properties</h2></td></tr>
 
 <p>When an Effect Area is overlapping another, the one with the higher priority will be taken into account. </p>
 
+<p class="definition">Definition at line <a class="el" href="_effect_area_8cs_source.html#l00043">43</a> of file <a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a>.</p>
+
 </div>
 </div>
 <a id="a63f21920d28a7ba2d1245177e41b5400"></a>
@@ -336,6 +351,8 @@ Properties</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Rotation RELATIVE to muzzle direction, in Degrees </p>
+
+<p class="definition">Definition at line <a class="el" href="_effect_area_8cs_source.html#l00021">21</a> of file <a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a>.</p>
 
 </div>
 </div>
@@ -361,6 +378,8 @@ Properties</h2></td></tr>
 
 <p>Type of the Effect Area </p>
 
+<p class="definition">Definition at line <a class="el" href="_effect_area_8cs_source.html#l00039">39</a> of file <a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a>.</p>
+
 </div>
 </div>
 <a id="aaa79f0abc5c020904d5aa2dbaf44149f"></a>
@@ -385,10 +404,12 @@ Properties</h2></td></tr>
 
 <p>The ref of the weapon this Effect Area is attached to. </p>
 
+<p class="definition">Definition at line <a class="el" href="_effect_area_8cs_source.html#l00025">25</a> of file <a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a>.</p>
+
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>C:/Users/JoeGillianW/source/repos/FireImpact/FireImpact/EffectArea.cs</li>
+<li>C:/Users/JoeGillianW/source/repos/FireImpact/FireImpact/<a class="el" href="_effect_area_8cs_source.html">EffectArea.cs</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

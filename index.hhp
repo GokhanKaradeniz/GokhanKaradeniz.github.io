@@ -12,9 +12,25 @@ Title=FireImpact
 main="FireImpact","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
 
 [FILES]
+_effect_area_8cs.html
+_effect_area_8cs_source.html
+_effects_on_nearby_units_8cs.html
+_effects_on_nearby_units_8cs_source.html
+_game_environment_8cs.html
+_game_environment_8cs_source.html
+_program_8cs.html
+_program_8cs_source.html
+_soldier_8cs.html
+_soldier_8cs_source.html
+_weapon_8cs.html
+_weapon_8cs_source.html
 annotated.html
 class_fire_impact_1_1_effect_area-members.html
 class_fire_impact_1_1_effect_area.html
+class_fire_impact_1_1_effects_on_nearby_units-members.html
+class_fire_impact_1_1_effects_on_nearby_units.html
+class_fire_impact_1_1_game_environment-members.html
+class_fire_impact_1_1_game_environment.html
 class_fire_impact_1_1_program-members.html
 class_fire_impact_1_1_program.html
 class_fire_impact_1_1_soldier-members.html
@@ -26,6 +42,7 @@ dir_0bac9e72dfaeb9a569c2f01f7520b0fa.html
 dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html
 dir_da92606663f4ecb03aa66c183f15dac3.html
 dir_e02ac0f47c91351214ee1bcd42a23a04.html
+files.html
 functions.html
 functions_evnt.html
 functions_func.html

@@ -4,3 +4,216 @@
 <param name="FrameName" value="right">
 </OBJECT>
 <UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="FireImpact"><param name="Local" value="namespace_fire_impact.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectArea"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectArea"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a9dd612295b37e540e925863c617ef96e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetDirection"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a0303dea9d158d32d894b390829caba80"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetLength"><param name="Local" value="class_fire_impact_1_1_effect_area.html#add7195e943209d686957bbddb7d42c98"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="IsPointInsideEffectArea"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a9403da1d13aff9a7f234199d4d1ede65"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConeAngle"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a8f8f9f4938673a1b76551c1179dd0001"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ImpactFactorAtConeBase"><param name="Local" value="class_fire_impact_1_1_effect_area.html#ae33b413105572885f452dfadc1609fc7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ImpactFactorAtConeTip"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a111249bc9c9faec33cca0c25865ce305"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LengthFactor"><param name="Local" value="class_fire_impact_1_1_effect_area.html#adb3231826ec208d60a40c1974d2647f2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Priority"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aac801fb16af2de615f8efa7e8bc9192f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Rotation"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a63f21920d28a7ba2d1245177e41b5400"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Type"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aea9bbc5ae0949bf250fe86ce61cabc9d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Weapon"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aaa79f0abc5c020904d5aa2dbaf44149f"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectsOnNearbyUnits"><param name="Local" value="class_fire_impact_1_1_effects_on_nearby_units.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplyBlindnessAndDeafness"><param name="Local" value="class_fire_impact_1_1_effects_on_nearby_units.html#aa91579cca3bf5e9ced9bf8abf57e9a2a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GameEnvironment"><param name="Local" value="class_fire_impact_1_1_game_environment.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeRandomlyPlacedSoldiers"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a571f5fdf3342155e47df58dbf66adf1a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetBlindness"><param name="Local" value="class_fire_impact_1_1_game_environment.html#aeaf4c62323c369ea44cbc7a1798615b7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetDeafness"><param name="Local" value="class_fire_impact_1_1_game_environment.html#acf4ad2e5ab85842cd94b9b844beffd25"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AllUnits"><param name="Local" value="class_fire_impact_1_1_game_environment.html#aab3f99a75e42768cd82494129a761dfb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HeightOfSoldier"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a9a99e51bc18d6ecddf43c369ff80788c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxBlindnessDuration"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a8a151886599eb82ab49d514a2e722ac7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxDeafnessDuration"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a5c39adf1625e030010d370118f148b3b"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Program"><param name="Local" value="class_fire_impact_1_1_program.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Soldier"><param name="Local" value="class_fire_impact_1_1_soldier.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Soldier"><param name="Local" value="class_fire_impact_1_1_soldier.html#af04946dfc27cc8f229d7342fb5e2b910"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Id"><param name="Local" value="class_fire_impact_1_1_soldier.html#a66061e2d7d4bc610b4aafa40a54e7fb1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Position"><param name="Local" value="class_fire_impact_1_1_soldier.html#af07c21d34ecdffec1ce5386e7b6c5abc"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Weapon"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Weapon"><param name="Local" value="class_fire_impact_1_1_weapon.html#a68d9d26a7b08ee6e11f3e96295ff3605"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Fire"><param name="Local" value="class_fire_impact_1_1_weapon.html#a4ddca1fd344ac964f5417223d0ccaaca"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OnWeaponFiredHandler"><param name="Local" value="class_fire_impact_1_1_weapon.html#a2682a7bea6d1107ead296898e992ff93"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectAreas"><param name="Local" value="class_fire_impact_1_1_weapon.html#aea7eba9058b78392e2cde2c86f4f60b7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MuzzleCaliber"><param name="Local" value="class_fire_impact_1_1_weapon.html#a6789c7ee198442e641ab3335e18e29b2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MuzzleDir"><param name="Local" value="class_fire_impact_1_1_weapon.html#ab6b5703b142bd66138eaeade0a1d31d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MuzzlePos"><param name="Local" value="class_fire_impact_1_1_weapon.html#a12bdf165e09a470a458a9bf89f9475da"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WeaponFired"><param name="Local" value="class_fire_impact_1_1_weapon.html#a63ec4df1cc9c2dc280393f605bc0d8d3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="FireImpact"><param name="Local" value="namespace_fire_impact.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectArea"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectArea"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a9dd612295b37e540e925863c617ef96e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetDirection"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a0303dea9d158d32d894b390829caba80"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetLength"><param name="Local" value="class_fire_impact_1_1_effect_area.html#add7195e943209d686957bbddb7d42c98"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="IsPointInsideEffectArea"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a9403da1d13aff9a7f234199d4d1ede65"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConeAngle"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a8f8f9f4938673a1b76551c1179dd0001"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ImpactFactorAtConeBase"><param name="Local" value="class_fire_impact_1_1_effect_area.html#ae33b413105572885f452dfadc1609fc7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ImpactFactorAtConeTip"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a111249bc9c9faec33cca0c25865ce305"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LengthFactor"><param name="Local" value="class_fire_impact_1_1_effect_area.html#adb3231826ec208d60a40c1974d2647f2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Priority"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aac801fb16af2de615f8efa7e8bc9192f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Rotation"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a63f21920d28a7ba2d1245177e41b5400"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Type"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aea9bbc5ae0949bf250fe86ce61cabc9d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Weapon"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aaa79f0abc5c020904d5aa2dbaf44149f"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectsOnNearbyUnits"><param name="Local" value="class_fire_impact_1_1_effects_on_nearby_units.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplyBlindnessAndDeafness"><param name="Local" value="class_fire_impact_1_1_effects_on_nearby_units.html#aa91579cca3bf5e9ced9bf8abf57e9a2a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GameEnvironment"><param name="Local" value="class_fire_impact_1_1_game_environment.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeRandomlyPlacedSoldiers"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a571f5fdf3342155e47df58dbf66adf1a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetBlindness"><param name="Local" value="class_fire_impact_1_1_game_environment.html#aeaf4c62323c369ea44cbc7a1798615b7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetDeafness"><param name="Local" value="class_fire_impact_1_1_game_environment.html#acf4ad2e5ab85842cd94b9b844beffd25"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AllUnits"><param name="Local" value="class_fire_impact_1_1_game_environment.html#aab3f99a75e42768cd82494129a761dfb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HeightOfSoldier"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a9a99e51bc18d6ecddf43c369ff80788c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxBlindnessDuration"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a8a151886599eb82ab49d514a2e722ac7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxDeafnessDuration"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a5c39adf1625e030010d370118f148b3b"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Program"><param name="Local" value="class_fire_impact_1_1_program.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Soldier"><param name="Local" value="class_fire_impact_1_1_soldier.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Soldier"><param name="Local" value="class_fire_impact_1_1_soldier.html#af04946dfc27cc8f229d7342fb5e2b910"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Id"><param name="Local" value="class_fire_impact_1_1_soldier.html#a66061e2d7d4bc610b4aafa40a54e7fb1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Position"><param name="Local" value="class_fire_impact_1_1_soldier.html#af07c21d34ecdffec1ce5386e7b6c5abc"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Weapon"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Weapon"><param name="Local" value="class_fire_impact_1_1_weapon.html#a68d9d26a7b08ee6e11f3e96295ff3605"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Fire"><param name="Local" value="class_fire_impact_1_1_weapon.html#a4ddca1fd344ac964f5417223d0ccaaca"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OnWeaponFiredHandler"><param name="Local" value="class_fire_impact_1_1_weapon.html#a2682a7bea6d1107ead296898e992ff93"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectAreas"><param name="Local" value="class_fire_impact_1_1_weapon.html#aea7eba9058b78392e2cde2c86f4f60b7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MuzzleCaliber"><param name="Local" value="class_fire_impact_1_1_weapon.html#a6789c7ee198442e641ab3335e18e29b2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MuzzleDir"><param name="Local" value="class_fire_impact_1_1_weapon.html#ab6b5703b142bd66138eaeade0a1d31d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MuzzlePos"><param name="Local" value="class_fire_impact_1_1_weapon.html#a12bdf165e09a470a458a9bf89f9475da"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WeaponFired"><param name="Local" value="class_fire_impact_1_1_weapon.html#a63ec4df1cc9c2dc280393f605bc0d8d3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="functions_prop.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Events"><param name="Local" value="functions_evnt.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="source"><param name="Local" value="dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="repos"><param name="Local" value="dir_da92606663f4ecb03aa66c183f15dac3.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FireImpact"><param name="Local" value="dir_0bac9e72dfaeb9a569c2f01f7520b0fa.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FireImpact"><param name="Local" value="dir_e02ac0f47c91351214ee1bcd42a23a04.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectArea.cs"><param name="Local" value="_effect_area_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectArea"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectArea"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a9dd612295b37e540e925863c617ef96e"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="GetDirection"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a0303dea9d158d32d894b390829caba80"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="GetLength"><param name="Local" value="class_fire_impact_1_1_effect_area.html#add7195e943209d686957bbddb7d42c98"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="IsPointInsideEffectArea"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a9403da1d13aff9a7f234199d4d1ede65"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="ConeAngle"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a8f8f9f4938673a1b76551c1179dd0001"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="ImpactFactorAtConeBase"><param name="Local" value="class_fire_impact_1_1_effect_area.html#ae33b413105572885f452dfadc1609fc7"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="ImpactFactorAtConeTip"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a111249bc9c9faec33cca0c25865ce305"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="LengthFactor"><param name="Local" value="class_fire_impact_1_1_effect_area.html#adb3231826ec208d60a40c1974d2647f2"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Priority"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aac801fb16af2de615f8efa7e8bc9192f"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Rotation"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a63f21920d28a7ba2d1245177e41b5400"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Type"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aea9bbc5ae0949bf250fe86ce61cabc9d"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Weapon"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aaa79f0abc5c020904d5aa2dbaf44149f"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectsOnNearbyUnits.cs"><param name="Local" value="_effects_on_nearby_units_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectsOnNearbyUnits"><param name="Local" value="class_fire_impact_1_1_effects_on_nearby_units.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplyBlindnessAndDeafness"><param name="Local" value="class_fire_impact_1_1_effects_on_nearby_units.html#aa91579cca3bf5e9ced9bf8abf57e9a2a"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="GameEnvironment.cs"><param name="Local" value="_game_environment_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="GameEnvironment"><param name="Local" value="class_fire_impact_1_1_game_environment.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeRandomlyPlacedSoldiers"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a571f5fdf3342155e47df58dbf66adf1a"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="SetBlindness"><param name="Local" value="class_fire_impact_1_1_game_environment.html#aeaf4c62323c369ea44cbc7a1798615b7"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="SetDeafness"><param name="Local" value="class_fire_impact_1_1_game_environment.html#acf4ad2e5ab85842cd94b9b844beffd25"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="AllUnits"><param name="Local" value="class_fire_impact_1_1_game_environment.html#aab3f99a75e42768cd82494129a761dfb"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="HeightOfSoldier"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a9a99e51bc18d6ecddf43c369ff80788c"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxBlindnessDuration"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a8a151886599eb82ab49d514a2e722ac7"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxDeafnessDuration"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a5c39adf1625e030010d370118f148b3b"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Program.cs"><param name="Local" value="_program_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="Program"><param name="Local" value="class_fire_impact_1_1_program.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Soldier.cs"><param name="Local" value="_soldier_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="Soldier"><param name="Local" value="class_fire_impact_1_1_soldier.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Soldier"><param name="Local" value="class_fire_impact_1_1_soldier.html#af04946dfc27cc8f229d7342fb5e2b910"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Id"><param name="Local" value="class_fire_impact_1_1_soldier.html#a66061e2d7d4bc610b4aafa40a54e7fb1"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Position"><param name="Local" value="class_fire_impact_1_1_soldier.html#af07c21d34ecdffec1ce5386e7b6c5abc"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Weapon.cs"><param name="Local" value="_weapon_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="Weapon"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Weapon"><param name="Local" value="class_fire_impact_1_1_weapon.html#a68d9d26a7b08ee6e11f3e96295ff3605"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Fire"><param name="Local" value="class_fire_impact_1_1_weapon.html#a4ddca1fd344ac964f5417223d0ccaaca"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="OnWeaponFiredHandler"><param name="Local" value="class_fire_impact_1_1_weapon.html#a2682a7bea6d1107ead296898e992ff93"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="EffectAreas"><param name="Local" value="class_fire_impact_1_1_weapon.html#aea7eba9058b78392e2cde2c86f4f60b7"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="MuzzleCaliber"><param name="Local" value="class_fire_impact_1_1_weapon.html#a6789c7ee198442e641ab3335e18e29b2"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="MuzzleDir"><param name="Local" value="class_fire_impact_1_1_weapon.html#ab6b5703b142bd66138eaeade0a1d31d3"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="MuzzlePos"><param name="Local" value="class_fire_impact_1_1_weapon.html#a12bdf165e09a470a458a9bf89f9475da"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="WeaponFired"><param name="Local" value="class_fire_impact_1_1_weapon.html#a63ec4df1cc9c2dc280393f605bc0d8d3"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              </UL>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

@@ -4,3 +4,164 @@
 <param name="FrameName" value="right">
 </OBJECT>
 <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#aab3f99a75e42768cd82494129a761dfb"><param name="Name" value="AllUnits"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effects_on_nearby_units.html#aa91579cca3bf5e9ced9bf8abf57e9a2a"><param name="Name" value="ApplyBlindnessAndDeafness"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a9dd612295b37e540e925863c617ef96e"><param name="Name" value="EffectArea"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#aea7eba9058b78392e2cde2c86f4f60b7"><param name="Name" value="EffectAreas"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a4ddca1fd344ac964f5417223d0ccaaca"><param name="Name" value="Fire"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_fire_impact.html"><param name="Name" value="FireImpact"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a9dd612295b37e540e925863c617ef96e"><param name="Name" value="EffectArea"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a0303dea9d158d32d894b390829caba80"><param name="Name" value="GetDirection"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#add7195e943209d686957bbddb7d42c98"><param name="Name" value="GetLength"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#ae33b413105572885f452dfadc1609fc7"><param name="Name" value="ImpactFactorAtConeBase"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a111249bc9c9faec33cca0c25865ce305"><param name="Name" value="ImpactFactorAtConeTip"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a9403da1d13aff9a7f234199d4d1ede65"><param name="Name" value="IsPointInsideEffectArea"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aac801fb16af2de615f8efa7e8bc9192f"><param name="Name" value="Priority"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a63f21920d28a7ba2d1245177e41b5400"><param name="Name" value="Rotation"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aea9bbc5ae0949bf250fe86ce61cabc9d"><param name="Name" value="Type"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aaa79f0abc5c020904d5aa2dbaf44149f"><param name="Name" value="Weapon"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effects_on_nearby_units.html"><param name="Name" value="FireImpact::EffectsOnNearbyUnits"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effects_on_nearby_units.html"><param name="Name" value="FireImpact::EffectsOnNearbyUnits"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effects_on_nearby_units.html#aa91579cca3bf5e9ced9bf8abf57e9a2a"><param name="Name" value="ApplyBlindnessAndDeafness"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html"><param name="Name" value="FireImpact::GameEnvironment"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html"><param name="Name" value="FireImpact::GameEnvironment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#aab3f99a75e42768cd82494129a761dfb"><param name="Name" value="AllUnits"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html"><param name="Name" value="FireImpact::GameEnvironment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a9a99e51bc18d6ecddf43c369ff80788c"><param name="Name" value="HeightOfSoldier"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html"><param name="Name" value="FireImpact::GameEnvironment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a571f5fdf3342155e47df58dbf66adf1a"><param name="Name" value="InitializeRandomlyPlacedSoldiers"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html"><param name="Name" value="FireImpact::GameEnvironment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a8a151886599eb82ab49d514a2e722ac7"><param name="Name" value="MaxBlindnessDuration"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html"><param name="Name" value="FireImpact::GameEnvironment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a5c39adf1625e030010d370118f148b3b"><param name="Name" value="MaxDeafnessDuration"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html"><param name="Name" value="FireImpact::GameEnvironment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#aeaf4c62323c369ea44cbc7a1798615b7"><param name="Name" value="SetBlindness"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html"><param name="Name" value="FireImpact::GameEnvironment"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#acf4ad2e5ab85842cd94b9b844beffd25"><param name="Name" value="SetDeafness"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_program.html"><param name="Name" value="FireImpact::Program"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_soldier.html"><param name="Name" value="FireImpact::Soldier"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_soldier.html"><param name="Name" value="FireImpact::Soldier"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_soldier.html#a66061e2d7d4bc610b4aafa40a54e7fb1"><param name="Name" value="Id"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_soldier.html"><param name="Name" value="FireImpact::Soldier"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_soldier.html#af07c21d34ecdffec1ce5386e7b6c5abc"><param name="Name" value="Position"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_soldier.html"><param name="Name" value="FireImpact::Soldier"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_soldier.html#af04946dfc27cc8f229d7342fb5e2b910"><param name="Name" value="Soldier"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="Name" value="FireImpact::Weapon"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="Name" value="FireImpact::Weapon"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#aea7eba9058b78392e2cde2c86f4f60b7"><param name="Name" value="EffectAreas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="Name" value="FireImpact::Weapon"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a4ddca1fd344ac964f5417223d0ccaaca"><param name="Name" value="Fire"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="Name" value="FireImpact::Weapon"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a6789c7ee198442e641ab3335e18e29b2"><param name="Name" value="MuzzleCaliber"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="Name" value="FireImpact::Weapon"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#ab6b5703b142bd66138eaeade0a1d31d3"><param name="Name" value="MuzzleDir"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="Name" value="FireImpact::Weapon"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a12bdf165e09a470a458a9bf89f9475da"><param name="Name" value="MuzzlePos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="Name" value="FireImpact::Weapon"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a2682a7bea6d1107ead296898e992ff93"><param name="Name" value="OnWeaponFiredHandler"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="Name" value="FireImpact::Weapon"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a68d9d26a7b08ee6e11f3e96295ff3605"><param name="Name" value="Weapon"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html"><param name="Name" value="FireImpact::Weapon"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a63ec4df1cc9c2dc280393f605bc0d8d3"><param name="Name" value="WeaponFired"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a0303dea9d158d32d894b390829caba80"><param name="Name" value="GetDirection"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#add7195e943209d686957bbddb7d42c98"><param name="Name" value="GetLength"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a9a99e51bc18d6ecddf43c369ff80788c"><param name="Name" value="HeightOfSoldier"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_soldier.html#a66061e2d7d4bc610b4aafa40a54e7fb1"><param name="Name" value="Id"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#ae33b413105572885f452dfadc1609fc7"><param name="Name" value="ImpactFactorAtConeBase"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a111249bc9c9faec33cca0c25865ce305"><param name="Name" value="ImpactFactorAtConeTip"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a571f5fdf3342155e47df58dbf66adf1a"><param name="Name" value="InitializeRandomlyPlacedSoldiers"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a9403da1d13aff9a7f234199d4d1ede65"><param name="Name" value="IsPointInsideEffectArea"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a8a151886599eb82ab49d514a2e722ac7"><param name="Name" value="MaxBlindnessDuration"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#a5c39adf1625e030010d370118f148b3b"><param name="Name" value="MaxDeafnessDuration"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a6789c7ee198442e641ab3335e18e29b2"><param name="Name" value="MuzzleCaliber"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#ab6b5703b142bd66138eaeade0a1d31d3"><param name="Name" value="MuzzleDir"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a12bdf165e09a470a458a9bf89f9475da"><param name="Name" value="MuzzlePos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a2682a7bea6d1107ead296898e992ff93"><param name="Name" value="OnWeaponFiredHandler"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_soldier.html#af07c21d34ecdffec1ce5386e7b6c5abc"><param name="Name" value="Position"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aac801fb16af2de615f8efa7e8bc9192f"><param name="Name" value="Priority"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#a63f21920d28a7ba2d1245177e41b5400"><param name="Name" value="Rotation"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#aeaf4c62323c369ea44cbc7a1798615b7"><param name="Name" value="SetBlindness"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_game_environment.html#acf4ad2e5ab85842cd94b9b844beffd25"><param name="Name" value="SetDeafness"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_soldier.html#af04946dfc27cc8f229d7342fb5e2b910"><param name="Name" value="Soldier"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aea9bbc5ae0949bf250fe86ce61cabc9d"><param name="Name" value="Type"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aaa79f0abc5c020904d5aa2dbaf44149f"><param name="Name" value="Weapon"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_effect_area.html#aaa79f0abc5c020904d5aa2dbaf44149f"><param name="Name" value="FireImpact::EffectArea"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a68d9d26a7b08ee6e11f3e96295ff3605"><param name="Name" value="Weapon"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a68d9d26a7b08ee6e11f3e96295ff3605"><param name="Name" value="FireImpact::Weapon"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_fire_impact_1_1_weapon.html#a63ec4df1cc9c2dc280393f605bc0d8d3"><param name="Name" value="WeaponFired"></OBJECT>
+</UL>
+</BODY>
+</HTML>
